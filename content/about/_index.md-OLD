@@ -1,0 +1,50 @@
+---
+date: '2025-04-02T15:36:02+01:00'
+draft: true
+title: 'Our Story'
+cascade:
+  type: default
+---
+Massive progress is taking place in enabling AI for the enterprise: from foundation models and guardrails, to development frameworks and retrieval technologies, the pace of technical innovation is unmatched since the dawn of the information age.
+
+<div class="hx-flex hx-items-center">
+<div>
+
+Despite headwinds (scarcity of talent, of computer hardware for training and inference, cost scaling, and lack of a consensus approach to risk management for both the enterprise and societal impacts) venture investment in the technology sector and strategic investments at leading enterprises are starting to turn the promise of AI foundation models into an exciting new reality.
+</div>
+<div class="hx-mx-4" >
+{{<figure 
+   src="/images/rocket.png"
+   alt="friendly productive robot"
+>}}
+</div>
+</div>
+
+Before these promising technical capabilities can turn into sustainable business value, much less herald the transformation of industry that is in the offing, they will have to be adapted to support the needs and processes of industry: reliability, transparency, and effecitve application to business processes. This is especially true for critical services in regulated industries.
+
+{{< callout >}}
+<div class="hx-flex">
+<div class="hx-shrink-0 hx-mx-4" >
+{{<figure 
+   src="/images/Magsafe_Pink.jpg"
+   alt="RE Logo"
+>}}
+</div>
+<div class="hx-mx-4">
+
+__Large Enterprises__ must convert rapid technical innovation into value while leveraging what makes them market leaders.  
+
+__Emerging Enterprises__ need reliable, affordable solutions that can be immediately put to work generating growth and value
+</div>
+</div>
+{{< /callout>}}
+
+Rational Exponent was founded to address this gap in the market by a team of bankers, technologists, and business innovators with a track record of successful startups turning technical invention into business innovation.
+
+<br>
+
+{{< hextra/hero-button text="Get in touch!" link="/contact" >}}
+
+
+
+
