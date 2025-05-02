@@ -70,33 +70,43 @@ Purpose-built for agility, transparency, and scale, RE:Agent delivers business v
 
 {{< callout >}}
 
+{{< callout >}}
+
+
 ## From Operational Drag to Business Agility
 
-<div class="hx-flex hx-flex-col md:hx-flex-row hx-items-start hx-gap-4">
-<div class="hx-mx-4">
+<div class="hx-flex hx-flex-col md:hx-flex-row hx-gap-6 hx-items-start">
+  <div class="hx-w-full md:hx-w-1/2 hx-px-4">
+    <div class="prose prose-sm md:prose-base max-w-none">
+      <p>
+        Banking has changed. Traditional models no longer keep pace with real-time demands.  
+        <strong>RE:Agent</strong> empowers institutions to break free from:
+      </p>
+      <ul>
+        <li>Legacy workflows that slow execution</li>
+        <li>Manual processes that increase cost and risk</li>
+        <li>Fragmented systems that block innovation</li>
+        <li>Decision delays driven by policy uncertainty or misalignment</li>
+      </ul>
+      <p><strong>RE:Agent delivers:</strong></p>
+      <ul>
+        <li><strong>Dynamic Business Alignment</strong> – Translate real-time change into actionable guidance</li>
+        <li><strong>AI-Powered Decision Support</strong> – Enable faster, more confident decision-making</li>
+        <li><strong>Execution-Ready Intelligence</strong> – Turn insight into frontline action without delay</li>
+        <li><strong>Safe, Prudent Innovation</strong> – Launch new models with controls and clarity built in</li>
+      </ul>
+    </div>
+  </div>
 
-Banking has changed. Traditional models no longer keep pace with real-time demands.  RE:Agent empowers institutions to break free from:
-- Legacy workflows that slow execution
-- Manual processes that increase cost and risk
-- Fragmented systems that block innovation
-- Decision delays driven by policy uncertainty or misalignment
-
-**RE:Agent delivers:**
-
-- **Dynamic Business Alignment**<br>Translate real-time change into actionable guidance
-- **AI-Powered Decision Support**<br>Enable faster, more confident decision-making
-- **Execution-Ready Intelligence**<br>Turn insight into frontline action without delay
-- **Safe, Prudent Innovation**<br>Launch new models with controls and clarity built in
-
-</div>
-<div class="hx-mx-4" >
-{{<figure 
-   src="/images/robojuggle.png"
-   alt="friendly productive robot"
->}}
-</div>
+  <div class="hx-w-full md:hx-w-1/2 hx-px-4 flex justify-center">
+    {{< figure 
+       src="/images/robojuggle.png"
+       alt="friendly productive robot"
+    >}}
+  </div>
 </div>
 {{< /callout >}}
+
 
  
 ## Practical Design. Strategic Value. Proven ROI.
@@ -111,20 +121,24 @@ RE:Agent is built for the way banks work—and for the way banks need to grow. O
  
 ## Strategic Outcomes. Measurable Value. Intelligent Control.  
 <br>
-<div class="hx-flex hx-items-center">
-<div class="hx-mx-4" >
-{{<figure 
-   src="/images/arrowup.png"
-   alt="Positive Results with Reagent"
->}}
+
+<div class="hx-flex hx-flex-col md:hx-flex-row hx-gap-6 hx-items-start">
+  <div class="hx-w-full md:hx-w-1/2">
+    {{<figure 
+       src="/images/arrowup.png"
+       alt="Positive Results with Reagent"
+    >}}
+  </div>
+  <div class="hx-w-full md:hx-w-1/2">
+    <div class="prose prose-sm md:prose-base">
+      Introducing RE:Agent - the Future of Banking, Today.  
+      <br><br>
+      RE:Agent supercharges your bank’s ability to adapt, act, and accelerate.  
+      Intelligence is embedded directly into workflows—enabling smarter decisions, faster execution, and safer innovation within a unified framework.
+    </div>
+  </div>
 </div>
-<div class="hx-mx-4">
-Introducing RE:Agent - the Future of Banking, Today.  
-<br>
-<br>
-RE:Agent supercharges your bank’s ability to adapt, act, and accelerate. Intelligence is embedded directly into workflows—enabling smarter decisions, faster execution, and safer innovation within a unified framework.
-</div>
-</div>
+
 
 ## Why Rational Exponent?
 
