@@ -72,7 +72,7 @@ Purpose-built for agility, transparency, and scale, RE:Agent delivers business v
 
 ## From Operational Drag to Business Agility
 
-<div class="hx-flex hx-items-center">
+<div class="hx-flex hx-flex-col md:hx-flex-row hx-items-start hx-gap-4">
 <div class="hx-mx-4">
 
 Banking has changed. Traditional models no longer keep pace with real-time demands.  RE:Agent empowers institutions to break free from:
