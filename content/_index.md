@@ -7,7 +7,8 @@ cascade:
 ---
 
 {{< callout >}}
-<div class="hx-flex hx-items-start">
+<div class="hx-flex hx-flex-col md:hx-flex-row hx-gap-4 hx-flex-wrap hx-items-start">
+
 <div class="hx-shrink-0 hx-mx-4" >
 
 {{<figure 
