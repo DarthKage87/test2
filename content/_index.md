@@ -68,8 +68,6 @@ Purpose-built for agility, transparency, and scale, RE:Agent delivers business v
   alt="RE:Agent"
 >}}
 
-{{< callout >}}
-
 
 
 ## From Operational Drag to Business Agility
@@ -104,7 +102,6 @@ Purpose-built for agility, transparency, and scale, RE:Agent delivers business v
     >}}
   </div>
 </div>
-{{< /callout >}}
 
 
  
