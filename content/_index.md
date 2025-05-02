@@ -70,7 +70,6 @@ Purpose-built for agility, transparency, and scale, RE:Agent delivers business v
 
 {{< callout >}}
 
-{{< callout >}}
 
 
 ## From Operational Drag to Business Agility
