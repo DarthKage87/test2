@@ -76,7 +76,7 @@ Purpose-built for agility, transparency, and scale, RE:Agent delivers business v
   <div class="hx-w-full md:hx-w-1/2 hx-px-4">
     <div class="prose prose-sm md:prose-base max-w-none">
       <p>
-        Banking has changed. Traditional models no longer keep pace with real-time demands.  
+        Banking has changed. testTraditional models no longer keep pace with real-time demands.  
         <strong>RE:Agent</strong> empowers institutions to break free from:
       </p>
       <ul>
