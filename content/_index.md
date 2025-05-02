@@ -12,7 +12,7 @@ cascade:
 <div class="hx-shrink-0 hx-mx-4" >
 
 {{<figure 
-   src="images/Magsafe_Pink.jpg"
+   src="/images/Magsafe_Pink.jpg"
    alt="RE Logo"
 >}}
 </div>
